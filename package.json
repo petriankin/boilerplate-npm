@@ -1,6 +1,6 @@
 {
-	"author": "Sergei Petriankin",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Sergei Petriankin",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
