@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Sergei Petriankin",
+	"description": "following along freecodecamp lessons",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
