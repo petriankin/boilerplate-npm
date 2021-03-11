@@ -4,6 +4,7 @@
 	"description": "following along freecodecamp lessons",
 	"keywords": ["freecodecamp", "nodejs"],
 	"license": "no",
+	"version": "0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
